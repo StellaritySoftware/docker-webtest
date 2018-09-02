@@ -4,7 +4,7 @@ LABEL Description="webtest"
 
 # install packages
 RUN apt-get update &&\
-    apt-get install -y --no-install-recommends chromium-browser chromium-chromedriver &&\
+    apt-get install -y --no-install-recommends chromium-browser chromium-chromedriver curl &&\
     rm -rf /var/lib/apt/lists/*
 
 # disable gradle daemon
