@@ -1,5 +1,4 @@
-FROM stellarity/openjdk8
-MAINTAINER Sergey Podobry <sergey.podobry@stellaritysoftware.com>
+FROM ghcr.io/StellaritySoftware/openjdk11
 LABEL Description="webtest"
 
 # install packages

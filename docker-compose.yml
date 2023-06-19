@@ -2,7 +2,7 @@ version: '3'
 services:
   webtest:
     build: .
-    image: stellarity/webtest
+    image: StellaritySoftware/webtest
     volumes:
       - ~/.m2:/root/.m2
       - ~/.gradle/caches/modules-2:/root/.gradle/caches/modules-2
