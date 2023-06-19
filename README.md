@@ -1,1 +1,3 @@
-# docker-webtest [![Docker Build Status](https://img.shields.io/docker/build/stellarity/webtest.svg)](https://hub.docker.com/r/stellarity/webtest)
+# docker-webtest 
+
+[![Docker](https://github.com/StellaritySoftware/docker-webtest/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/StellaritySoftware/docker-webtest/actions/workflows/docker-publish.yml)
